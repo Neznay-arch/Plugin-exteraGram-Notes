@@ -20,7 +20,7 @@ from ayugram import BasePlugin, Message
 # =============================================================================
 
 # ЗАМЕНИТЕ НА ВАШ ЮЗЕРНЕЙМ (обязательно с @)
-ADMIN_USERNAME = "@ВашЮзернейм"
+ADMIN_USERNAME = "@Prostotaj"
 
 # Имя файла для хранения данных (в директории плагина)
 DB_FILENAME = "user_notes_db.json"
